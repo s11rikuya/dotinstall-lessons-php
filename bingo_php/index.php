@@ -7,7 +7,6 @@ require_once(__DIR__ . '/Bingo.php');
 $bingo = new \Myapp\Bingo();
 $nums = $bingo->create();
 
-
 ?>
 <html lang="ja">
 <head>
